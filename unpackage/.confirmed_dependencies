@@ -1,0 +1,153 @@
+{
+	"index.html": {
+		"resources": [
+			"css/common.css",
+			"js/update.js",
+			"js/shortcut.js",
+			"js/immersed.js"
+		],
+		"refer": [
+			"plus/maps.html",
+			"plus/nativeui.html",
+			"plus/navigator.html",
+			"plus/runtime.html",
+			"plus/proximity.html",
+			"plus/zip.html",
+			"plus/njs.html",
+			"plus/share.html",
+			"plus/oauth.html",
+			"plus/barcode.html",
+			"plus/push.html",
+			"plus/storage.html",
+			"plus/audio.html",
+			"plus/events.html"
+		]
+	},
+	"plus/maps.html": {
+		"resources": [
+			"js/common.js",
+			"css/common.css",
+			"js/immersed.js"
+		],
+		"refer": [
+			"plus/maps_map.html"
+		]
+	},
+	"plus/maps_map.html": {
+		"resources": [
+			"js/common.js",
+			"css/common.css",
+			"js/immersed.js",
+			"plus/maps_map_sub.html"
+		],
+		"refer": [
+			"plus/maps_map_sub.html"
+		]
+	},
+	"plus/nativeui.html": {
+		"resources": [
+			"js/common.js",
+			"css/common.css",
+			"js/immersed.js"
+		],
+		"refer": [
+			"plus/nativeui_waiting.html"
+		]
+	},
+	"plus/maps_map_sub.html": {
+		"resources": [
+			"css/common.css"
+		]
+	},
+	"plus/nativeui_waiting.html": {
+		"resources": [
+			"js/common.js",
+			"css/common.css",
+			"js/immersed.js"
+		]
+	},
+	"plus/navigator.html": {
+		"resources": [
+			"js/common.js",
+			"css/common.css",
+			"js/immersed.js"
+		]
+	},
+	"plus/runtime.html": {
+		"resources": [
+			"js/common.js",
+			"css/common.css",
+			"js/immersed.js"
+		]
+	},
+	"plus/proximity.html": {
+		"resources": [
+			"js/common.js"
+		]
+	},
+	"plus/zip.html": {
+		"resources": [
+			"js/common.js",
+			"css/common.css",
+			"js/immersed.js"
+		]
+	},
+	"plus/njs.html": {
+		"resources": [
+			"js/common.js",
+			"css/common.css",
+			"js/immersed.js"
+		]
+	},
+	"plus/share.html": {
+		"resources": [
+			"img/add.png",
+			"js/common.js",
+			"css/common.css",
+			"js/immersed.js"
+		]
+	},
+	"plus/oauth.html": {
+		"resources": [
+			"js/common.js",
+			"css/common.css",
+			"js/immersed.js"
+		]
+	},
+	"plus/barcode.html": {
+		"resources": [
+			"js/common.js",
+			"css/common.css",
+			"js/immersed.js",
+			"img/barcode.png"
+		]
+	},
+	"plus/push.html": {
+		"resources": [
+			"js/common.js",
+			"css/common.css",
+			"js/immersed.js"
+		]
+	},
+	"plus/storage.html": {
+		"resources": [
+			"js/common.js",
+			"css/common.css",
+			"js/immersed.js"
+		]
+	},
+	"plus/audio.html": {
+		"resources": [
+			"js/common.js",
+			"css/common.css",
+			"js/immersed.js"
+		]
+	},
+	"plus/events.html": {
+		"resources": [
+			"js/common.js",
+			"css/common.css",
+			"js/immersed.js"
+		]
+	}
+}
